@@ -1,1 +1,2 @@
 my self git
+This is adding on the dummy branch
